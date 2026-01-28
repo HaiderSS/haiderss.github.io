@@ -1,20 +1,27 @@
 ---
 ---
 
-/* Move name & description forward */
-header h1 {
-  margin-top: 1rem;
-  z-index: 10;
-  position: relative;
+/* Center header content */
+header {
+  text-align: center;
 }
 
-/* Ensure logo sits behind text */
-.site-logo {
-  margin-bottom: 0.5rem;
-}
-
-/* Optional: reduce logo dominance */
+/* Make the logo smaller and centered */
 .site-logo img {
-  max-width: 180px;
+  max-width: 160px;   /* tweak: 140–180px */
+  margin: 0 auto 0.75rem;
+  display: block;
 }
 
+/* Center name */
+header h1 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+/* Center description */
+header p {
+  margin-top: 0;
+  font-size: 1rem;
+  color: #666;
+}
