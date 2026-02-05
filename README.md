@@ -33,6 +33,14 @@
 - Managed all the data through SQL database
 
 ### Projects
+
+#### Payroll Data & Remediation Analytics
+- Delivered large-scale payroll remediation analytics by translating enterprise agreement conditions into auditable data models
+- Built Python and Databricks pipelines to analyse time, pay, and entitlement data across overtime, shiftwork, LSL, and repeat payments
+- Developed Power BI dashboards for executive and steering committee decision-making
+- Partnered with legal, workplace relations, payroll, and HR teams to ensure defensible, governance-ready outcomes
+- Enabled multi-million-dollar remediation decisions and material cost avoidance through data quality checks and anomaly analysis
+
 #### Healthcare Analytics & Wearable Sensor Data
 [Publication](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300659)
 
