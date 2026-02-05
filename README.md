@@ -1,3 +1,37 @@
+<section style="display: flex; align-items: center; gap: 2rem; margin-top: 2rem; flex-wrap: wrap;">
+  <!-- Left: optional content -->
+  <div style="flex-shrink: 0; width: 100px; text-align:center;">
+    <p>Highlights / Projects</p>
+  </div>
+
+  <!-- Middle: profile image -->
+  <div style="flex-shrink: 0;">
+    <img src="assets/profile.png" alt="Syed Haider" style="width: 150px; border-radius: 50%;">
+  </div>
+
+  <!-- Right: text -->
+  <div style="flex:1; min-width:200px;">
+    <h1>Syed Haider Saleem</h1>
+    <h2>Data Scientist | Healthcare & Workforce Analytics</h2>
+    <p>Applying Python, Databricks, and Power BI to turn complex enterprise and biomedical data into actionable insights.</p>
+  </div>
+</section>
+
+<!-- Responsive adjustments -->
+<style>
+@media screen and (max-width: 768px) {
+  section {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  img {
+    margin-bottom: 1rem;
+  }
+}
+</style>
+
+
 # Workforce Data Analyst
 
 #### Technical Skills: Python, Power BI, SQL, Databricks, AWS
