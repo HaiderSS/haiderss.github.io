@@ -15,22 +15,18 @@
 - Supported governance processes by ensuring traceability, reproducibility, and audit readiness of all analytical outputs.
 
 #### Consultant - Data Analytics @ RSM (Mar 2022 - Dec 2022)
-- Built Financial Forecasting models that enabled client to establish goals that are both realistic and feasible and helped them better prepare for future
-- Performed payroll data analytics which resulted in the company understanding their potential exposure
-- Worked on PDP valuation model in SAS to create accurate forecasting model for the bidding process
-- Helped Data Analytics team in diversifying skills by giving team training sessions and taking on complex client projects to increase team budget
-- Interacted and dealt with a wide range of clients which helped to broaden my understanding of different domains
+- Built financial forecasting and valuation models (Python, SAS) to support client planning and bid decisions
+- Performed payroll and financial exposure analysis for enterprise clients
+- Led internal capability uplift through analytics training and delivery of complex client engagements
 
 #### Research Assistant (Machine Learning) @ RMIT (Oct 2020 - Mar 2022)
-- Worked on projects including Metasurfaces design using deep learning and computer vision techniques for modeling of emission of electrons from the surface
-- Retrieved and analysed ECG data at a very high frequency for healthcare applications (Publication also available)
-- Developed an Android application to communicate data using Bluetooth Low Energy (BLE) and Near-field communication (NFC) protocols
+- Applied deep learning and computer vision to metasurface design and physical modeling
+- Analysed high-frequency ECG data for healthcare applications (peer-reviewed publication)
+- Developed mobile and BLE/NFC-based data acquisition tools for research systems
 
 #### Jr. Data Scientist @ Carecloud (Jun 2018 - July 2019)
-- Developed an AI application to facilitate medical providers for their everyday use in healthcare for insurance purposes
-- Built an AI application that generates a History of presenting illness which is currently used by the medical providers in the United States
-- Created a medical chatbot using the RASA platform which helps to guide users surfing through MTBC official website
-- Managed all the data through SQL database
+- Developed NLP and AI applications for healthcare documentation and insurance workflows
+- Built and deployed a medical chatbot using RASA and SQL-backed data pipelines
 
 ### Projects
 
