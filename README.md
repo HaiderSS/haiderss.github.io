@@ -42,4 +42,4 @@
 
 Co-author of a peer-reviewed study on a skin-mountable, low-power ECG wearable that extracts key cardiac features using reduced-lead data. The work combines biomedical signal processing, wireless data transmission, and analytics for scalable cardiac monitoring.
 
-![Data flow from the biosignals to the IoT cloud and smartphone as the user interface] (/assets/Research Paper Img.png)
+! [Data flow from the biosignals to the IoT cloud and smartphone as the user interface] (/assets/Research_Paper_Img.png)
