@@ -33,4 +33,7 @@
 - Managed all the data through SQL database
 
 ### Projects
-#### 
+#### Healthcare Analytics & Wearable Sensor Data
+[Publication](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300659)
+
+Co-author of a peer-reviewed study on a skin-mountable, low-power ECG wearable that extracts key cardiac features using reduced-lead data. The work combines biomedical signal processing, wireless data transmission, and analytics for scalable cardiac monitoring.
