@@ -3,8 +3,8 @@
 #### Technical Skills: Python, Power BI, SQL, Databricks, AWS
 
 ### Education
-- Master of Data Science | Royal Melbourne Institute of Technology (December 2022)
-- Bachelors of Computer Science | NUCES - FAST (May 2018)
+- Master of Data Science | Royal Melbourne Institute of Technology (Jul 2019 - Dec 2022)
+- Bachelors of Computer Science | NUCES - FAST (Aug 2014 - Jun 2018)
 
 ### Work Experience
 #### Workforce Data Analyst @ Monash University (Dec 2022- Present)
